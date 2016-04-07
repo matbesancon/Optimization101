@@ -1,2 +1,5 @@
 # Optimization101
-Introduction to mathematical optimization using Python-Numpy
+
+Quick dive into mathematical optimization using Python-Numpy.
+* Gradient descent
+* Global optimization with Simulated Annealing  
